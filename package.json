@@ -2,14 +2,14 @@
   "name": "cutebotreacting",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/A-nu-1/CuteBotReact.git",
+  "homepage": "https://a-nu-1.github.io/CuteBotReact/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+"deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
